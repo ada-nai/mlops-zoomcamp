@@ -3,5 +3,5 @@
 mlz_env/
 soft/
 mlartifacts/*
-/home/wsl/mlops-zoomcamp/2-exp-tracking/artifacts_local/
-/home/wsl/mlops-zoomcamp/2-exp-tracking/models/
+2-exp-tracking/artifacts_local/*
+2-exp-tracking/models/*
